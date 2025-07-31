@@ -80,15 +80,6 @@ Explore how CNN architecture, activation functions, and regularization affect pe
 
 ---
 
-## 💾 Output Sample
-
-| Epoch | Training Accuracy | Validation Accuracy |
-|-------|-------------------|---------------------|
-| 1     | 82.34%            | 78.11%              |
-| 10    | 96.12%            | 91.45%              |
-| 20    | 98.00%            | 93.60%              |
-
----
 
 ## 👩‍💻 Author
 
